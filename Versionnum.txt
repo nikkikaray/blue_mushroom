@@ -1,1 +1,14 @@
-BLUE MUSHROOM V alpha.1
+Last edit by: JC
+Date edited: 3/20/16
+
+BLUE MUSHROOM V.alpha.2
+/****************************************************
+*Added shadows for Igon secret trails, fishing village, Igon, and Eslonica Bridge.
+*Added several houses to Igon.
+*Added IgonInn.
+*Added IgonInnInkeeper.
+*Added Harmless wraith NPC in Igon.
+*Added Radio active well in Igon.
+*Added Temporary sidewalk in Igon.
+*Added Several Temporary NPCs to Beach Park
+*****************************************************/
