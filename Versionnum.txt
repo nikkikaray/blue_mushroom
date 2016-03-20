@@ -12,3 +12,8 @@ BLUE MUSHROOM V.alpha.2
 *Added Temporary sidewalk in Igon.
 *Added Several Temporary NPCs to Beach Park
 *****************************************************/
+
+BLUE MUSHROOM V.alpha.2.1
+/**************************
+*Added GaryCXJk's free movement script
+**************************/
