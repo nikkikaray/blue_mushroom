@@ -1,8 +1,8 @@
-Last edit by: AR
+Last edit by: JC
 Date edited: 3/20/16
 
-BLUE MUSHROOM V.alpha.3
+BLUE MUSHROOM V.alpha.4
 /****************************************************
-*Added trees, cliffs, hedges, and gear shop to Igon
-*Added Igon Secret Trail #3 (This is the last secret trail section)
+*Added large house interior to Igon
+*changed title music
 *****************************************************/
