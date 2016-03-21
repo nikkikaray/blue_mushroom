@@ -1,8 +1,8 @@
 Last edit by: JC
 Date edited: 3/20/16
 
-BLUE MUSHROOM V.alpha.4
+BLUE MUSHROOM V.alpha.5
 /****************************************************
-*Added large house interior to Igon
-*changed title music
+*Beat up Igon Large house interior
+*Added start to intro scene
 *****************************************************/
