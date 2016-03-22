@@ -1,8 +1,8 @@
 Last edit by: JC
-Date edited: 3/20/16
+Date edited: 3/21/16
 
-BLUE MUSHROOM V.alpha.5
+BLUE MUSHROOM V.alpha.6
 /****************************************************
-*Beat up Igon Large house interior
-*Added start to intro scene
+*Added interior floors 1 and 2 of old tower on west end of Marka(?)
+*Weather effect clears when entering any building in Igon
 *****************************************************/
