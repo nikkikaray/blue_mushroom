@@ -1,9 +1,8 @@
-Last edit by: AR
-Date edited: 3/22/16
+Last edit by: JC
+Date edited: 3/21/16
 
 BLUE MUSHROOM V.alpha.6
 /****************************************************
-*Added Marka Tower Roof
-*Added Igon Residence
-*Added Marka Resort location
+*Added interior floors 1 and 2 of old tower on west end of Marka(?)
+*Weather effect clears when entering any building in Igon
 *****************************************************/
