@@ -1,7 +1,8 @@
 Last edit by: AR
 Date edited: 3/24/16
 
-BLUE MUSHROOM V.alpha.8
+BLUE MUSHROOM V.alpha.9
 /****************************************************
-*Added merchant hall to Port Frepo
+*Added tansport events to port town
+*Added Inn Floor 1 in beach resort town
 *****************************************************/
