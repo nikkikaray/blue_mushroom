@@ -1,8 +1,8 @@
-Last edit by: JC
-Date edited: 3/21/16
+Last edit by: AR
+Date edited: 3/26/16
 
-BLUE MUSHROOM V.alpha.6
+BLUE MUSHROOM V.alpha.9
 /****************************************************
-*Added interior floors 1 and 2 of old tower on west end of Marka(?)
-*Weather effect clears when entering any building in Igon
+*Added Inn to marka resort
+*Added Pike forest #2 & #3
 *****************************************************/
