@@ -1,9 +1,31 @@
 Last edit by: AR
-Date edited: 3/22/16
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
+Date edited: 3/26/16
 
-BLUE MUSHROOM V.alpha.6
+BLUE MUSHROOM V.alpha.9
 /****************************************************
-*Added Marka Tower Roof
-*Added Igon Residence
-*Added Marka Resort location
+*Added Inn to marka resort
+*Added Pike forest #2 & #3
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+Date edited: 3/25/16
+
+BLUE MUSHROOM V.alpha.8
+/****************************************************
+*Added store and inn to Port Frepo
+*Added NPCs to Fishing Village and Igon residence
+=======
+Date edited: 3/24/16
+
+BLUE MUSHROOM V.alpha.8
+/****************************************************
+*Added merchant hall to Port Frepo
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
 *****************************************************/
