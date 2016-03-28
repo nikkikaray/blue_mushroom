@@ -1,40 +1,8 @@
-Last edit by: JC
-Date edited: 3/27/16
-
-BLUE MUSHROOM V.alpha.10
-/****************************************************
-*Added more tansport events to port town
-*Added a couple NPCs to port town/sub areas
-*Added Pub to Marka Resort with NPCs
-*Several small event fixes here and there
-*Added Fire to fireplaces in Frepo and Marka
-*Added Yanfly shop engine from here: https://yanflychannel.wordpress.com/rmvxa/menu-scripts/ace-shop-options/
-*Cleaned up Children's text in Igon residence
-*****************************************************/
-
-Last edit by: AR
-Date edited: 3/26/16
-
-BLUE MUSHROOM V.alpha.9
-/****************************************************
-*Added Inn to marka resort
-*Added Pike forest #2 & #3
-*****************************************************/
-
-Last edit by: JC
-Date edited: 3/25/16
-
-BLUE MUSHROOM V.alpha.8
-/****************************************************
-*Added store and inn to Port Frepo
-*Added NPCs to Fishing Village and Igon residence
-*****************************************************/
-
-
 Last edit by: AR
 Date edited: 3/24/16
 
-BLUE MUSHROOM V.alpha.8
+BLUE MUSHROOM V.alpha.9
 /****************************************************
-*Added merchant hall to Port Frepo
+*Added tansport events to port town
+*Added Inn Floor 1 in beach resort town
 *****************************************************/
