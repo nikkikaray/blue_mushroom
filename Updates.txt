@@ -1,5 +1,12 @@
-Last edit by: JC
-Date edited: 3/27/16
+Last edit by: AR
+Date edited: 3/28/16
+
+BLUE MUSHROOM V.alpha.11
+/****************************************************
+*Added pub to Frepo
+*Added shipping office to Frepo
+*Added mountains to Pike Forest 2 (INPRG)
+*****************************************************/
 
 BLUE MUSHROOM V.alpha.10
 /****************************************************
