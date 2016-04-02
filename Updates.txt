@@ -1,3 +1,13 @@
+Last Edit by JC
+Date Edited :4/1/16
+
+BLUE MUSHROOM V.alpha.12
+/****************************************************
+*Added exit events to seaside resort
+*Fixed some events
+*Other stuff
+*************************************************/
+
 Last edit by: AR
 Date edited: 3/28/16
 
