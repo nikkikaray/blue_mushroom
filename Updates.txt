@@ -1,3 +1,17 @@
+Last Edit by AK
+Date Edited: 4/5/2016
+
+BLUE MUSHROOM V.alpha.13
+/****************************************************
+*Minor Cosmetic Touchups to:
+   Port Frepo
+   Marka Resort
+*Made Frepo Merchant Hall posters readable
+*Igon Innkeeper no longer walks in place
+*Added Overworld Entry to Pike Forest 3
+*Tried making the intro boat more boatlike
+*************************************************/
+
 Last Edit by JC
 Date Edited :4/1/16
 
