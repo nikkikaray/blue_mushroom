@@ -1,3 +1,14 @@
+Last Edit by JC
+Date Edited: 4/10/2016
+
+BLUE MUSHROOM V.alpha.14
+/****************************************************
+*Added Yang into merchants hall
+*Fixed several transporters to work on touch instead of key
+*Added exit events to Frepo
+*Added an empty mine in overworld
+*************************************************/
+
 Last Edit by AK
 Date Edited: 4/5/2016
 
