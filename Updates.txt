@@ -1,3 +1,13 @@
+Last Edit by AK
+Date Edited: 4/11/2016
+
+BLUE MUSHROOM V.alpha.14.a
+/****************************************************
+*Derping resulted in enough minor touchups to keep.
+*Discovered bug in tower where you can walk up the walls.
+*************************************************/
+
+
 Last Edit by JC
 Date Edited: 4/10/2016
 
