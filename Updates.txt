@@ -1,4 +1,8 @@
 Last Edit by AR
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
 Date Edited: 4/22/2016
 
 BLUE MUSHROOM V.alpha.14.C
@@ -11,6 +15,11 @@ Intro and tower scripting, along with message speed script
 
 
 Last Edit by AR
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
 Date Edited: 4/20/2016
 
 BLUE MUSHROOM V.alpha.14.b
