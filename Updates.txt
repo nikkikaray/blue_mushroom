@@ -1,15 +1,19 @@
+Last Edit by JC
+2016/5/23
+BLUE MUSHROOM V.alpha.15
+/*****************************************
+*Added glacier cave
+*Added rain audio to the Tower
+*Removed rainfall from inside the tower
+*Made overworld mini trees impassable
+*Added implication of pole vault in glacier cave
+*****************************************/
+
 Last Edit by AR
 2016/5/16
 *
 Port Frepo Dialogue prior to fishing village quest.
 *
-
-
-
-
-
-
-
 
 
 Last Edit by AR
