@@ -1,4 +1,18 @@
 Last Edit by JC
+2016/5/25
+BLUE MUSHROOM V.alpha.16
+/*****************************************
+*Added glacier 
+*Changed Eslonica Bridge gfx to look less like a bunch of sticks tied together
+*Added transport events to/from glacier, glacier cave, and glacier camp
+*Added an extra tab to exterior and dungeon tilesets
+*Added inner glacier cave for after pole vaut, filled with generated npc's
+*Removed magical invisible repel giving 'fairy' North of marka resort
+*Added temporary sprite and face to Tannerung
+*****************************************/
+
+
+Last Edit by JC
 2016/5/23
 BLUE MUSHROOM V.alpha.15
 /*****************************************
