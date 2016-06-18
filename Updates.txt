@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last edit by AR
 2016/6/16
 BLUE MUSHROOM V.alpha.18
@@ -8,6 +9,10 @@ Glacier dialogue and chase movement mapping
 
 
 Last Edit by AR
+=======
+Last Edit by AR
+<<<<<<< HEAD
+>>>>>>> origin/master
 2016/6/12
 BLUE MUSHROOM V.alpha.17
 ////////////////////////
@@ -17,6 +22,11 @@ BLUE MUSHROOM V.alpha.17
 
 
 Last Edit by AR
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
 2016/6/5
 BLUE MUSHROOM V.alpha.16
 ////////////////////////
@@ -24,6 +34,26 @@ BLUE MUSHROOM V.alpha.16
 *Fixed tileset index mis-match
 /////////////////////////////
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+Last Edit by JC
+2016/5/25
+BLUE MUSHROOM V.alpha.16
+/*****************************************
+*Added glacier 
+*Changed Eslonica Bridge gfx to look less like a bunch of sticks tied together
+*Added transport events to/from glacier, glacier cave, and glacier camp
+*Added an extra tab to exterior and dungeon tilesets
+*Added inner glacier cave for after pole vaut, filled with generated npc's
+*Removed magical invisible repel giving 'fairy' North of marka resort
+*Added temporary sprite and face to Tannerung
+*****************************************/
+
+
+>>>>>>> origin/master
+>>>>>>> origin/master
 Last Edit by JC
 2016/5/23
 BLUE MUSHROOM V.alpha.15
