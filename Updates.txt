@@ -1,3 +1,29 @@
+Last edit by AR
+2016/6/16
+BLUE MUSHROOM V.alpha.18
+****************************
+Glacier dialogue and chase movement mapping
+****************************
+
+
+
+Last Edit by AR
+2016/6/12
+BLUE MUSHROOM V.alpha.17
+////////////////////////
+*Pole vault system
+*Chase script system
+/////////////////////////////
+
+
+Last Edit by AR
+2016/6/5
+BLUE MUSHROOM V.alpha.16
+////////////////////////
+*Added revamped tilesets
+*Fixed tileset index mis-match
+/////////////////////////////
+
 Last Edit by JC
 2016/5/23
 BLUE MUSHROOM V.alpha.15
