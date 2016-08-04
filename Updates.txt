@@ -1,7 +1,12 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/master
+Last edit by JC
+2016/8/3
+BLUE MUSHROOM V.alpha.19
+****************************
+Added base for skill leveling script(Finally)
+****************************
+
+
+
 Last edit by AR
 2016/6/16
 BLUE MUSHROOM V.alpha.18
