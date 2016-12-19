@@ -1,3 +1,10 @@
+Last edit by AR
+12/18/2016
+*Fixed dialogue events in tower and Edna's Sanitorium during Lan's recovery*
+
+
+
+
 Last edit by JC
 2016/8/3
 BLUE MUSHROOM V.alpha.19
